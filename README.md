@@ -6,11 +6,10 @@
 ### Sobre mim:
 Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack formado na <strong>@CubosAcademy</strong>.
 <ul>
-<li>🍕_Apreciador de pizza e pão de queijo;</li>
-<li>👨‍💻_Fã de Agile Methodology SCRUM;</li>
+<li>🍕_Sou apreciador de pizza e pão de queijo;</li>
+<li>👨‍💻_Gosto muito de Agile Methodology SCRUM;</li>
 <li>🎮_Lolzeiro e amante da saga Assassin's Creed;</li>
-<li>👨‍💻_Sempre aberto para estudar novas tecnologias;</li>
-<li><img width="2%" src="https://th.bing.com/th/id/OIP.NOXpEqjtAUV4lPSMgWBlrQAAAA?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt=""/>_Tenho como missão mudar a <strong>realidade</strong> por meio da <strong>tecnologia</strong>.</li> 
+<li>👨‍💻_Estou sempre aberto para estudar novas tecnologias;</li>
 </ul>
 <div align="">  
 <a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
