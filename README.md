@@ -1,12 +1,30 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B17&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+Sou+o+Pedro+Oliveira.;Tenho+19+anos.;Sou+de+Minas-Gerais+uai!;Sou+um+Dev+Full-stack+formado+na+@CubosAcademy;Seja+Bem-vindo!+\o/;:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+mundo!;Seja+Bem-vindo+ao+meu+github!+\o/;:%29)](https://git.io/typing-svg)
 <br>
+
+### Sobre mim:
+Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack formado na <strong>@CubosAcademy</strong>.
+<ul>
+<li>🍕_Apreciador de pizza e pão de queijo;</li>
+<li>👨‍💻_Fã de Agile Methodology SCRUM;</li>
+<li>🎮_Lolzeiro e amante da saga Assassin's Creed;</li>
+<li>👨‍💻_Sempre aberto para estudar novas tecnologias;</li>
+<li><img width="2%" src="https://th.bing.com/th/id/OIP.NOXpEqjtAUV4lPSMgWBlrQAAAA?w=163&h=180&c=7&r=0&o=5&pid=1.7" alt=""/>_Tenho como missão mudar a <strong>realidade</strong> por meio da <strong>tecnologia</strong>.</li> 
+</ul>
+<div align="">  
+<a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<hr/>
+
 <div align="right">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-peu&show_icons=true&count_private=true&hide_border=true&title_color=00FF2B&icon_color=00FF2B&text_color=FFFFFF&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-peu&layout=compact&hide_border=true&title_color=00FF2B&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
+<hr/>
 
 ### Principais Ferramentas:
 ![GitHub](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -26,8 +44,5 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![Symfony](https://img.shields.io/badge/-symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-<div align="">  
-<a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B17&height=120&section=footer"/>
