@@ -4,13 +4,8 @@
 <br>
 
 ### Sobre mim:
-Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack formado na <strong>@CubosAcademy</strong>.
-<ul>
-<li>🍕_Sou apreciador de pizza e pão de queijo;</li>
-<li>👨‍💻_Gosto muito de Agile Methodology SCRUM;</li>
-<li>🎮_Lolzeiro e amante da saga Assassin's Creed;</li>
-<li>👨‍💻_Estou sempre aberto para estudar novas tecnologias;</li>
-</ul>
+Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack e atualmente estagiário em desenvolvimento web na Suporte Leilões, estudando vue-js, php e symfony.
+Gosto muito de aprender novas tecnologias, implementar meu intelectual/técnico e trabalhar em equipe.
 <div align="">  
 <a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
