@@ -5,6 +5,7 @@
 
 ### Sobre mim:
 Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack e atualmente estagiário em desenvolvimento web na Suporte Leilões, estudando vue-js, php e symfony.
+<br>
 Gosto muito de aprender novas tecnologias, implementar meu intelectual/técnico e trabalhar em equipe.
 <br>
 Quando não estou desenvolvendo novas aplicações e estudando-as, passo raiva no league of legends.
