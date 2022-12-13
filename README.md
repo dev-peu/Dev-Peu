@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
 <br>
-#### Sou o Pedro mas pode me chamar de peu, tenho 26 anos e mais detalhes abaixo 🔽
+#### Sou o Pedro mas pode me chamar de peu, tenho 20 anos e mais detalhes abaixo 🔽
   - Desenvolvedor full-stack;
   - Estagiário em desenvolvimento web na @SuporteLeilões;
   - Curto:
