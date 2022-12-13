@@ -2,8 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
 <br>
-#### Sou o Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack e atualmente estagiário em desenvolvimento web na Suporte Leilões
-  sobre mim? Eu curto correr, ver alguns animes, jogos como league of legends e counter strike, café e trabalhar em equipe.
+#### Sou o Pedro mas pode me chamar de peu, tenho 26 anos e mais detalhes abaixo 🔽
+  - Desenvolvedor full-stack;
+  - Estagiário em desenvolvimento web na @SuporteLeilões;
+  - Curto:
+    - Correr
+    - League of Legends e Counter-Strike
+  - desenvolvendo e estudando regularmente a fim de aumentar minha senioridade.
+ 
+ #### Você pode me contatar através email linkado ao meu perfil ou nas opções abaixo 🔽
 <div align="">  
 <a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
