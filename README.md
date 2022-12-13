@@ -2,14 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
 <br>
-#### Sou o Pedro mas pode me chamar de peu, tenho 20 anos.
-  ##### Mais detalhes sobre mim abaixo 🔽
-  - Desenvolvedor full-stack;
+### Sou o Pedro mas pode me chamar de peu, tenho 20 anos e sou um desenvolvedor full-stack!
   - Estagiário em desenvolvimento web na @SuporteLeilões;
-  - Curto:
-    - Correr
-    - League of Legends e Counter-Strike
-  - desenvolvendo e estudando regularmente a fim de aumentar minha senioridade.
+  - Gosto de correr e andar de bicicleta para compensar as horas-bunda na cadeira codando;
+  - No meu tempo livre acabo jogando League of Legends e Counter-Strike;
+  - desenvolvo e estudo regularmente a fim de aumentar minha senioridade.
+  - Sou um amante de café e gosto de trabalhar em equipe, aprecio a comunicação não-violenta.
  
  #### Você pode me contatar através email linkado ao meu perfil ou nas opções abaixo 🔽
 <div align="">  
