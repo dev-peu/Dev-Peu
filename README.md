@@ -2,13 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
 <br>
-
-### Sobre mim:
-Opa, prazer! Meu nome é Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack e atualmente estagiário em desenvolvimento web na Suporte Leilões, estudando vue-js, php e symfony.
-<br>
-Gosto de aprender novas tecnologias, implementar meu intelectual/técnico e trabalhar em equipe.
-<br>
-Quando não estou desenvolvendo novas aplicações e estudando-as, passo raiva no league of legends.
+### Sou o Pedro mas você pode me chamar de Peu, sou um desenvolvedor full-stack e atualmente estagiário em desenvolvimento web na Suporte Leilões, estudando vue-js, php e symfony.
+  sobre mim? Eu curto correr, ver alguns animes, jogos como league of legends e counter strike, café e trabalhar em equipe.
 <div align="">  
 <a href = "https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
