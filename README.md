@@ -17,13 +17,6 @@
 
 <hr/>
 
-<div align="right">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dev-peu&show_icons=true&count_private=true&hide_border=true&title_color=00FF2B&icon_color=00FF2B&text_color=FFFFFF&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-peu&layout=compact&hide_border=true&title_color=00FF2B&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-<hr/>
-
 ### Principais Ferramentas:
 ![GitHub](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
