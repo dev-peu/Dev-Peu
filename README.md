@@ -5,8 +5,8 @@
 ### Sou o Pedro mas pode me chamar de peu, tenho 20 anos e sou um desenvolvedor full-stack!
   - Estagiário em desenvolvimento web na @SuporteLeilões;
   - Gosto de correr e andar de bicicleta para compensar as horas-bunda na cadeira codando;
-  - No meu tempo livre acabo jogando League of Legends e Counter-Strike;
-  - desenvolvo e estudo regularmente a fim de aumentar minha senioridade.
+  - No meu tempo livre acabo jogando League of Legends / Counter-Strike;
+  - Desenvolvo e estudo regularmente a fim de aumentar minha senioridade.
   - Sou um amante de café e gosto de trabalhar em equipe, aprecio a comunicação não-violenta.
  
  #### Você pode me contatar através email linkado ao meu perfil ou nas opções abaixo 🔽
