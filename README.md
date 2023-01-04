@@ -29,7 +29,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#E34F26&labelColor=0D1117)&nbsp;
   
 ### Outros conhecimentos:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![NPM](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
 ![MUI](https://img.shields.io/badge/-mui-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117)&nbsp;
