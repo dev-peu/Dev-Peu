@@ -25,8 +25,8 @@
 
 ### Atualmente trabalhando com: 
 ![react.Native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=SCSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#E34F26&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#CC6699&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
