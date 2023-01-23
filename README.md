@@ -25,7 +25,7 @@
 
 ### Atualmente trabalhando com: 
 ![react.Native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=#CC6699&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#CC6699&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -33,8 +33,6 @@
 ### Outros conhecimentos:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![NPM](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
-![MUI](https://img.shields.io/badge/-mui-0D1117?style=for-the-badge&logo=mui&labelColor=0D1117)&nbsp;
 
 ### Estudando:
 ![PostgreSQL](https://img.shields.io/badge/-posgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
