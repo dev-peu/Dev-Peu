@@ -23,7 +23,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#E34F26&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### Atualmente trabalhando com:
+### Atualmente trabalhando com
 ![React.native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -40,4 +40,4 @@
 ![React.native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=008B17&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B17&height=120&section=footer"/>
