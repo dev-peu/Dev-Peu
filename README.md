@@ -9,7 +9,7 @@
   - Desenvolvo e estudo regularmente a fim de aumentar minha senioridade
   - Sou um amante de café e gosto de trabalhar em equipe, aprecio a comunicação não-violenta
  
- #### Você pode me contatar através email linkado ao meu perfil ou nas opções abaixo 🔽
+ #### Você pode me contatar através email linkado ao meu perfil ou nas opções abaixo
 <div>  
 <a href="https://discordapp.com/users/317095781884624909/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pedro-oliveira-ab090523a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
