@@ -39,5 +39,6 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![React.native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-symfony-0D1117?style=for-the-badge&logo=symfony&labelColor=0D1117&textColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B17&height=120&section=footer"/>
