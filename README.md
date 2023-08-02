@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Atualmente trabalhando com:
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue&labelColor=#4FC08D)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=#4FC08D)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=#CC6699&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&logoColor=#CC6699&labelColor=0D1117)&nbsp;
