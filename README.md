@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF2B&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
 <br>
-### Sou o Pedro, tenho 22 anos e sou desenvolvedor full-stack
+### Sou o Pedro, 22 anos, desenvolvedor full-stack.
   - Desenvolvedor front-end júnior na Suporte Leilões;
   - Gosto de correr e andar de bicicleta para compensar as horas-bunda na cadeira codando;
   - Sou um amante de café e gosto de trabalhar em equipe;
