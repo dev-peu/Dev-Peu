@@ -1,5 +1,5 @@
 ## Olá! Sou o Pedro, desenvolvedor full-stack.
-  - Desenvolvedor front-end na Suporte Leilões;
+  - Desenvolvedor fullstack na Suporte Leilões;
   - Não vivo sem café e gosto de trabalhar em equipe;
  
  ### Contato
