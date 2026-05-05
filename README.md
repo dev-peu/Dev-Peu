@@ -1,5 +1,6 @@
-## Olá! Sou o Pedro, desenvolvedor full-stack.
-  - Desenvolvedor fullstack na Suporte Leilões;
+## Olá! Sou o Pedro.
+  - Desenvolvedor da Nuai na Oliv-e;
+  - Desenvolvedor fullstack na Suporte Leilões
   - Não vivo sem café e gosto de trabalhar em equipe;
  
  ### Contato
