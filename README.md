@@ -1,4 +1,4 @@
-## Olá! Sou o Pedro.
+## Olá! Sou o Pedro, nasci em 07/11/2002.
   - Desenvolvedor da Nuai na Oliv-e;
   - Desenvolvedor fullstack na Suporte Leilões
   - Não vivo sem café e gosto de trabalhar em equipe;
